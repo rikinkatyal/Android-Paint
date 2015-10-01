@@ -2,3 +2,5 @@
 Microsoft Paint Clone written in Python 3 and Pygame.
 
 Made for grade 11 midterm project in grade 10.
+
+I coded 99% of this project.(iamshmert)
