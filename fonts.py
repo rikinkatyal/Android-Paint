@@ -1,8 +1,8 @@
-#Font module
+# Font module
 
 from pygame import font
 
-#Initialize fonts
+# Initialize fonts
 
 font.init()
 
